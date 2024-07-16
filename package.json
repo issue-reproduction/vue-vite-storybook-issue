@@ -1,0 +1,12 @@
+{
+  "name": "vue-vite-storybook-issue",
+  "volta": {
+    "node": "20.15.1",
+    "yarn": "4.3.1"
+  },
+  "engines": {
+    "node": ">=20",
+    "yarn": "4.3.1"
+  },
+  "packageManager": "yarn@4.3.1"
+}
