@@ -135,3 +135,6 @@ dist
 # nx
 .nx/cache
 .nx/workspace-data
+
+*storybook.log
+storybook-static
